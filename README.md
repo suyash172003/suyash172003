@@ -69,11 +69,3 @@ I specialize in building robust, efficient applications using **Java** and **Pyt
 
 ## 💡 **Fun Fact**  
 When I’m not coding, you’ll find me hiking or exploring scenic trails to unwind and recharge!  
-
----
-
-### **Technology Logos**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
