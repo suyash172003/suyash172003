@@ -6,7 +6,6 @@ I specialize in building robust, efficient applications using **Java** and **Pyt
 ---
 
 ## 🌟 **About Me**  
-- 💻 10 months of professional experience as a **Software Developer**.  
 - 🌱 Always exploring new **technologies** and **frameworks** to expand my expertise.  
 - 🎯 Driven to build innovative solutions that address real-world problems.  
 
